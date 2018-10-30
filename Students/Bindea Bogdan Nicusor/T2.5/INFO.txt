@@ -1,0 +1,1 @@
+I started to read a book about Java programming, and I decided to work on the proposed exercices step by step, increasing the degree of difficulty. Here are some of them from the beggining. I practice a little bit on the for instruction and using the input from the console.
